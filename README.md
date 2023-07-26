@@ -1,1 +1,2 @@
 # odin-recipes
+This project is being made as part of The Odin Project curriculum in order to practice coding and web development techniques. It is a simple Recipe webpage built with HTML through the use of CLI, GitHub and VSCode.
